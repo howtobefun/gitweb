@@ -1,0 +1,23 @@
+body {
+    background-image: url("sagiri4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* unvisited */
+a:link {
+    text-decoration: #F39C95;
+}
+/* visited */
+a:visited {
+    text-decoration: none;
+}
+/* user mouse over */
+a:hover {
+    text-decoration: #F39C95;
+}
+/* a link the moment it is clicked */
+a:active{
+    text-decoration: turquoise;
+}
+
